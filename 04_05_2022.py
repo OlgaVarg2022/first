@@ -3,6 +3,9 @@
 тільки в одному зі списків"""
 
 
+print("Bu! ")
+
+
 def join_lists(list_1, list_2, joined_list=[]):
     for i in list_1:
         if i in list_2:
